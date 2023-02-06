@@ -4,6 +4,8 @@ Runet implementation in pytorch for Waifu Super-resolution
 ![Alt text](images/RUNET.png)
 
 ## Examples 
+Intput/True/Predictions 
+
 ![waifu 1](images/85_0.png)
 ![waifu 1](images/85_1.png)
 ![waifu 2](images/85_2.png)
